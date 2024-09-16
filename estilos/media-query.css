@@ -5,10 +5,6 @@
     display: none;
   }
 
-  footer {
-    margin-top: 44vh;
-  }
-
   #menu {
     display: block;
   }
@@ -17,4 +13,7 @@
     display: inline-block;
     margin: auto;
   }
+}
+main {
+  width: 768px;
 }
